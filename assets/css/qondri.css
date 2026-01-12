@@ -4514,6 +4514,7 @@ ul {
 }
 
 .pricing-one__count:before {
+  display: none;
   position: absolute;
   height: 35px;
   width: 40px;
@@ -4540,7 +4541,7 @@ ul {
 }
 
 .pricing-one__sub-title {
-  font-size: 14px;
+  font-size: 24px;
   margin: 0;
   line-height: 24px;
   -webkit-transition: all 500ms ease;
