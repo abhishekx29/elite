@@ -1009,7 +1009,7 @@
 
     .main-menu .mobile-nav__toggler {
         display: inline-block;
-        padding: 37px 0;
+        padding: 20px 0;
     }
 
     .main-menu-wrapper__btn-box {
@@ -1025,7 +1025,7 @@
     }
 
     .main-menu-wrapper__left {
-        padding: 37px 0;
+        padding: 20px 0;
     }
 }
 
